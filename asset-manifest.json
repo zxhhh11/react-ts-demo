@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/myhook/static/css/main.f49f1b21.chunk.css",
+    "main.js": "/myhook/static/js/main.209163bd.chunk.js",
+    "main.js.map": "/myhook/static/js/main.209163bd.chunk.js.map",
+    "runtime~main.js": "/myhook/static/js/runtime~main.184bfd52.js",
+    "runtime~main.js.map": "/myhook/static/js/runtime~main.184bfd52.js.map",
+    "static/js/2.44448fc1.chunk.js": "/myhook/static/js/2.44448fc1.chunk.js",
+    "static/js/2.44448fc1.chunk.js.map": "/myhook/static/js/2.44448fc1.chunk.js.map",
+    "index.html": "/myhook/index.html",
+    "precache-manifest.070c6c8e2bb224d8885582188f4551d6.js": "/myhook/precache-manifest.070c6c8e2bb224d8885582188f4551d6.js",
+    "service-worker.js": "/myhook/service-worker.js",
+    "static/css/main.f49f1b21.chunk.css.map": "/myhook/static/css/main.f49f1b21.chunk.css.map"
+  }
+}
