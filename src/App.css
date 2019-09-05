@@ -1,0 +1,32 @@
+ul>li{
+  list-style-type: none;
+}
+.App{
+  
+  /* color: #fff; */
+  min-height: 100vh;
+  /* padding: 25px; */
+  text-align: center;
+}
+.box{
+  background: #1a1919;
+}
+.box h1 {
+  font-size: 52px;
+  margin: 0;
+}
+
+.box h2 {
+  color: #f6c945;
+  text-transform: uppercase;
+}
+
+.box img {
+  cursor: grab;
+  height: 180px;
+  width: 240px;
+}
+.link a{
+  padding: 6px 16px;
+}
+
