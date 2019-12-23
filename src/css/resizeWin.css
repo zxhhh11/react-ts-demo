@@ -1,0 +1,10 @@
+.resize-window{
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.resize-window>div{
+    width:32%;
+    border:1px solid #dadada;
+    text-align: center;
+}

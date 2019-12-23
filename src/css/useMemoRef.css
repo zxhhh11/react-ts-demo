@@ -1,0 +1,10 @@
+.use-memo-ref {
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.use-memo-ref>div{
+    width:32%;
+    border:1px solid #dadada;
+    text-align: center;
+}

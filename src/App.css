@@ -1,0 +1,112 @@
+ul>li {
+  list-style-type: none;
+}
+
+.App {
+  min-height   : 100vh;
+}
+
+.box {
+  background: #1a1919;
+  width: 80%;
+  margin: 0 auto;
+  padding:0 2%;
+}
+
+.box h1 {
+  font-size: 16px;
+  margin   : 0;
+}
+
+.box h2 {
+  color         : #f6c945;
+  text-transform: uppercase;
+}
+
+.box img {
+  cursor: grab;
+  height: 180px;
+  width : 240px;
+}
+
+.link a {
+  color          : #fff;
+  padding        : 8px 16px;
+  font-size      : 24px;
+  text-decoration: none;
+  background     : #73d13d;
+  margin-left    : 14px;
+  border-radius  : 4px;
+}
+
+.link a:hover {
+  background: #389e0d;
+}
+.link a.active {
+  background: #389e0d;
+}
+
+button:not(.calculator-menu) {
+  line-height: 1.5;
+  position: relative;
+  display: inline-block;
+  font-weight: 400;
+  white-space: nowrap;
+  text-align: center;
+  background-image: none;
+  border: 1px solid transparent;
+  -webkit-box-shadow: 0 2px 0 rgba(0,0,0,0.015);
+  box-shadow: 0 2px 0 rgba(0,0,0,0.015);
+  cursor: pointer;
+  -webkit-transition: all .3s cubic-bezier(.645, .045, .355, 1);
+  transition: all .3s cubic-bezier(.645, .045, .355, 1);
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -ms-touch-action: manipulation;
+  touch-action: manipulation;
+  height: 32px;
+  padding: 6 14px;
+  border-radius: 4px;
+  color: rgba(0,0,0,0.65);
+  background-color: #fff;
+  border-color: #d9d9d9;
+  color    : #fff;
+  font-size: 16px;
+  background-color  : #1890ff;
+  border-color      : #1890ff;
+  text-shadow       : 0 -1px 0 rgba(0, 0, 0, 0.12);
+  -webkit-box-shadow: 0 2px 0 rgba(0, 0, 0, 0.045);
+  box-shadow        : 0 2px 0 rgba(0, 0, 0, 0.045);
+  margin: 0 4px;
+}
+button:hover{
+  background-color: #40a9ff;
+  border-color: #40a9ff;
+}
+h5{
+  color: #1890ff;
+  margin: 20px 0;
+  padding: 10px
+}
+h6{
+  margin: 20px;
+  padding: 10px
+}
+ul{
+  margin: 4px 0;
+  padding: 0;
+}
+ul li{
+  font-size: 20px;
+  font-weight: 400;
+}
+p{
+  margin:18px 0;
+}
+
+.get-data ul li{
+display: inline-block;
+margin-right: 6px;
+}
