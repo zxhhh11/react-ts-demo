@@ -5,7 +5,7 @@
   "homepage": "./",
   "dependencies": {
     "array-move": "^2.1.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "big.js": "^5.2.2",
     "history": "^4.9.0",
     "prop-types": "^15.7.2",
